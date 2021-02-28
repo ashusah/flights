@@ -22,4 +22,6 @@ To get Top 10 countries with highest number of airports.
 http://localhost:8080/runways/topten
 
 **Client application**
+cd ./ui
+
 Under construction
