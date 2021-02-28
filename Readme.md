@@ -4,13 +4,14 @@ Spring Boot Flight Services App.
 Project contains a Spring Boot Application and Angular ui (Not done)
 
 
-###To run Backend execute below commands
+**To run Backend execute below commands**
 
 cd flight-backend
 
 ./mvnw spring-boot:run
 
-###API- Endpoints
+**API- Endpoints**
+
 To get runways by country name
 http://localhost:8080/runways/name?name=Zimbabwe
 
